@@ -48,7 +48,7 @@ Langkah 2: Clone Repositori
 Unduh source code panel dari GitHub ke penyimpanan Termux:
 
 ```bash
-git clone https://github.com/econajja/panel-gascon.git $HOME/bugpanel
+git clone https://github.com/esronajja/panel-gascon.git $HOME/bugpanel
 cd $HOME/bugpanel
 ```
 
