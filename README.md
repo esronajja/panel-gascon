@@ -48,11 +48,10 @@ Langkah 2: Clone Repositori
 Unduh source code panel dari GitHub ke penyimpanan Termux:
 
 ```bash
-git clone https://github.com/USERNAME_GITHUB_ANDA/panel-gascon.git $HOME/bugpanel
+git clone https://github.com/econajja/panel-gascon.git $HOME/bugpanel
 cd $HOME/bugpanel
 ```
 
-(Ganti USERNAME_GITHUB_ANDA dengan username GitHub Anda)
 
 Langkah 3: Instal Dependensi Node.js
 
