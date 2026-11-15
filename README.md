@@ -27,7 +27,7 @@ Buka Termux, lalu jalankan perintah berikut (Copy-Paste):
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install curl -y
-curl -sL https://raw.githubusercontent.com/econajja/panel-gascon/main/install.sh | 
+curl -sL https://raw.githubusercontent.com/esronajja/panel-gascon/main/install.sh | bash | 
 ```
 
 🛠️ Instalasi Manual (Langkah Demi Langkah)
